@@ -6,6 +6,9 @@
 # testing
 /coverage
 
+# mess about
+/public/manifest.json
+
 # production
 /build
 
